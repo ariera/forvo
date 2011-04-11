@@ -15,7 +15,7 @@ Jeweler::Tasks.new do |gem|
   gem.name = "forvo"
   gem.homepage = "http://github.com/ariera/forvo"
   gem.license = "MIT"
-  gem.summary = %Q{TODO: one-line summary of your gem}
+  gem.summary = %Q{use the forvo API to retrieve word pronunciations from forvo.com}
   gem.description = %Q{TODO: longer description of your gem}
   gem.email = "ariera@gmail.com"
   gem.authors = ["ariera"]
