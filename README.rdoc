@@ -1,6 +1,6 @@
 = forvo
 
-Description goes here.
+Not to use already.
 
 == Contributing to forvo
  
